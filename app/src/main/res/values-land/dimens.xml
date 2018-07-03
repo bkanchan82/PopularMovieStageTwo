@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gallery_column">3</integer>
+
+    <dimen name="detail_poster_height">300dp</dimen>
+    <dimen name="detail_poster_width">400dp</dimen>
+</resources>

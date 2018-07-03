@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference android:defaultValue="@string/pref_default_movie_shorting_value"
+        android:key="@string/pref_movie_shorting_key"
+        android:entries="@array/pref_movie_shorting_labels"
+        android:entryValues="@array/pref_movie_shorting_values"
+        android:title="@string/pref_movie_short_label"/>
+
+</PreferenceScreen>

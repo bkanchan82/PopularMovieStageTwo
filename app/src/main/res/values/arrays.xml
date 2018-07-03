@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_movie_shorting_values">
+        <item>@string/pref_popular_movie_value</item>
+        <item>@string/pref_top_rated_movie_value</item>
+        <item>@string/pref_favorite_movie_value</item>
+    </array>
+
+    <array name="pref_movie_shorting_labels">
+        <item>@string/pref_popular_movie_label</item>
+        <item>@string/pref_top_rated_movie_label</item>
+        <item>@string/pref_favorite_movie_label</item>
+    </array>
+</resources>

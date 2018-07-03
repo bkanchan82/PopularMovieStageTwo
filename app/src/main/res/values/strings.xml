@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="error_message">
+        An error has occurred. Please try again.
+    </string>
+
+    <string name="favorite_movie_error_message">
+        No movie selected as favorite.
+    </string>
+
+    <string name="poster_content_description">Image view to display movie poster</string>
+    <string name="favorite_content_description">Add to favorite</string>
+
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="releasing_on">Releasing On %1$S </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="share_movie_title">First Movie Trailer</string>
+
+    <string name="pref_movie_shorting_key" translatable="false">movie_shorting</string>
+    <string name="pref_movie_short_label">Short By</string>
+    <string name="overview_label">Overview</string>
+
+    <string name="pref_default_movie_shorting_value" translatable="false">popular</string>
+
+    <string name="pref_popular_movie_value" translatable="false">popular</string>
+    <string name="pref_top_rated_movie_value" translatable="false">top_rated</string>
+    <string name="pref_favorite_movie_value" translatable="false">favorite</string>
+    <string name="pref_popular_movie_label">Most Popular</string>
+    <string name="pref_top_rated_movie_label">Top Rated</string>
+    <string name="pref_favorite_movie_label">Favorite</string>
+
+
+    <string name="trailer_label">Trailer</string>
+    <string name="user_reviews_label">User Review</string>
+</resources>
